@@ -1,4 +1,0 @@
-placa,representante
-QXD0081,MauroSilva
-RHP9A55,Anônio César
-NSK4696,Luís M
