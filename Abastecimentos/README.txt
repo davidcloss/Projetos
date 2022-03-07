@@ -1,0 +1,1 @@
+Atualmente estou importando arquivo de planilhas usando Pandas, meu objetivo é rastrear gasto de combustíveis com representantes comerciais em uma determianda empresa. Futuramente irei usar SQL para importar direto do banco de dados.
